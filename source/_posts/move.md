@@ -21,14 +21,16 @@ tags:
 然后就可以在github desktop里面commit了再上传到github。
 
 ## 持续集成
-我这里没有添加`hexo-deployer-git --save`，因为觉得这种更新方式太麻烦了。我是利用Appveyor的持续集成方法，具体的可以参考[Hexo的版本控制与持续集成](https://formulahendry.github.io/2016/12/04/hexo-ci/)，作者formulahendry。其实，如果你只是想添加几篇文章的话，在新电脑上直接用github desktop更新你的source文件夹就足够了。但是如果你还想继续调试hexo，或者使用一些便捷的方式添加文章的话，请继续往下看。
+我这里没有添加`hexo-deployer-git --save`，因为觉得这种更新方式太麻烦了。我是利用Appveyor的持续集成方法，具体的可以参考[Hexo的版本控制与持续集成](https://formulahendry.github.io/2016/12/04/hexo-ci/)，作者formulahendry。其实，如果你用了Appveyor，而且在新电脑上只是想添加几篇文章的话，在新电脑上直接用github desktop更新你的source文件夹就足够了。但是如果你还想继续调试hexo，或者使用一些便捷的方式添加文章的话，请继续往下看。
 
 ## 另一台电脑上的操作
 下载Node.js，并且安装。在新电脑上，在随便一个目录里安装hexo。，用git bash输入
 
 	npm install hexo-cli -g
 	npm install -g hexo
-	npm hexo init
+	npm update hexo -g
+	hexo init
+	npm install
 然后，打开你在新电脑上安装的github desktop，clone你的hexo仓库到本地另外一个文件夹。这个仓库里的文件是没法生成网页的，你缺的就是`node_modules`这个文件夹，所以拷贝刚才那个文件夹里生成的`node_modules`文件夹到你hexo仓库的根目录，然后你再编译`hexo g`试试，成功的话就可以用了。另外，你可能要额外安装下面这些东西：
 
 	npm install hexo-tag-aplayer --save
