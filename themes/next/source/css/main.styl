@@ -1,0 +1,51 @@
+// CSS Style Guide: http://codeguide.co/#css
+
+
+
+$scheme    = hexo-config('scheme') ? hexo-config('scheme') : 'Muse';
+$variables = base $scheme custom;
+$mixins    = base $scheme custom;
+
+// Variables Layer
+// --------------------------------------------------
+for $variable in $variables
+  @import "_variables/" + $variable
+
+
+// Mixins Layer
+// --------------------------------------------------
+for $mixin in $mixins
+  @import "_mixins/" + $mixin;
+
+
+
+// Common Layer
+// --------------------------------------------------
+
+// Scaffolding
+@import "_common/scaffolding";
+
+// Layout
+@import "_common/outline";
+
+// Components
+@import "_common/components";
+
+
+// Schemes Layer
+// --------------------------------------------------
+@import "_schemes/" + $scheme;
+
+
+
+// Custom Layer
+// --------------------------------------------------
+@import "_custom/custom";
+
+
+//可以看到几乎所有的包含css代码的styl文件都是通过main.styl导入被主题使用的
+//加上下面这行，把自己的css代码放进main.styl文件才能被主题使用哦
+@import "_variables/img-bg.styl";
+
+
+
