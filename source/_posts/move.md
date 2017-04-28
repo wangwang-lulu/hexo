@@ -37,3 +37,9 @@ tags:
 	npm install hexo-tag-dplayer --save
 	npm install hexo-util --save
 还有什么，我想起来再添加。
+
+{% note danger %} 
+**本文作者**： Lu Wang
+**本文链接**： http://wangwanglulu.com/2017/04/27/move/
+**版权声明**： 本博客所有文章除特别声明外，均采用 [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/cn/) 许可协议。转载请注明出处！
+{% endnote %}
