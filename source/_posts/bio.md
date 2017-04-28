@@ -9,7 +9,6 @@ photos:
 - /images/b5.jpg
 - /images/b9.jpg
 comments: false
-copyright: false
 ---
 <blockquote class="blockquote-center">2017年4月25日更新。</blockquote>
 
