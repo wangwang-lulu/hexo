@@ -6,7 +6,7 @@ tags:
 - 技术备忘
 
 ---
-<img src="/images/b11.jpg" class="full-image" />
+<img src="/images/b1.jpg" class="full-image" />
 这个next主题被我改得太多了，中间的修改参考了很多别人的文章。这里记录一下我在参考了众多文献后的搬家过程，具体怎么弄也可以到知乎去搜索。
 <!-- more -->
 ## 上传本地文件
