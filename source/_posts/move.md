@@ -31,11 +31,15 @@ tags:
 	npm update hexo -g
 	hexo init
 	npm install
-然后，打开你在新电脑上安装的github desktop，clone你的hexo仓库到本地另外一个文件夹。这个仓库里的文件是没法生成网页的，你缺的就是`node_modules`这个文件夹，所以拷贝刚才你安装hexo那个文件夹里生成的`node_modules`文件夹到你hexo仓库的根目录，然后你再到hexo仓库根目录里用git bash编译`hexo g`试试，成功的话就可以用了。另外，你可能要额外安装下面这些东西：
+
+然后，打开你在新电脑上安装的github desktop，clone你的hexo仓库到本地另外一个文件夹。这个仓库里的文件是没法生成网页的，你缺的就是`node_modules`这个文件夹，所以拷贝刚才你安装hexo那个文件夹里生成的`node_modules`文件夹到你hexo仓库的根目录，然后你再到hexo仓库根目录里用git bash安装你自己添加的模块，输入`npm install`，最后测试输入`hexo g`，成功的话就可以用了。
+
+另外，如果最后那个`npm install`不管用，你可能要额外安装你自己曾经添加过的模块了，比如下面这些东西：
 
 	npm install hexo-tag-aplayer --save
 	npm install hexo-tag-dplayer --save
 	npm install hexo-util --save
+	npm install hexo-tag-cloud --save
 还有什么，我想起来再添加。
 
 {% note danger %} 
