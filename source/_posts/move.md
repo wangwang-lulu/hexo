@@ -1,7 +1,7 @@
 ---
 title: 网站搬家
 date: 2017-04-27 23:56:27
-categories: 软件使用
+categories: Hexo使用
 tags:
 - 技术备忘
 
