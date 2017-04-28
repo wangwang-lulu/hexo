@@ -75,10 +75,3 @@ path: search.xml
 field: post
 format: html
 limit: 10000
-
-# hexo-tag-cloud
-tag_cloud:
-    textFont: 'Microsoft YaHei'
-    textColour: \#525f42
-    textHeight: 30
-    outlineColour: \#E2E1D1

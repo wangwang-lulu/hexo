@@ -17,18 +17,6 @@
           {{ tagcloud({min_font: 12, max_font: 30, amount: 200, color: true, start_color: '#ccc', end_color: '#111'}) }}
         </div>
       </div>
-        {% if site.tags.length > 1 %}
-<script type="text/javascript" charset="utf-8" src="/js/tagcloud.js"></script>
-<script type="text/javascript" charset="utf-8" src="/js/tagcanvas.js"></script>
-<div id="posts" class="posts-expand">
-    <h1 class="post-title" itemprop="name headline">标签云</h1>
-    <div id="myCanvasContainer" class="tag-cloud">
-        <canvas width="400" height="400" id="resCanvas" style="width=100%">
-            {{ list_tags() }}
-        </canvas>
-    </div>
-</div>
-{% endif %}
     {% elif page.type === 'categories' %}
       <div class="category-all-page">
         <div class="category-all-title">
