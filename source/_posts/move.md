@@ -7,7 +7,7 @@ tags:
 
 ---
 <img src="/images/b11.jpg" class="full-image" />
-这个next主题被我改得连它亲妈都不认识了，中间的修改参考了很多别人的文章。这里记录一下我在参考了众多文献后的搬家过程，具体怎么弄也可以到知乎去搜索。
+这个next主题被我改得太多了，中间的修改参考了很多别人的文章。这里记录一下我在参考了众多文献后的搬家过程，具体怎么弄也可以到知乎去搜索。
 <!-- more -->
 ## 上传本地文件
 直接在网页里，新建了一个仓库，取名为`hexo`。用github desktop将`hexo`仓库clone到本地。这里我先备份了所有的生成网页的源文件，然后拷贝所有文件到clone文件夹。
@@ -21,7 +21,7 @@ tags:
 然后就可以在github desktop里面commit了再上传到github。
 
 ## 持续集成
-我这里没有添加`hexo-deployer-git --save`，因为觉得这种更新方式太麻烦了。我是利用Appveyor的持续集成方法，具体的可以参考的的[Hexo的版本控制与持续集成](https://formulahendry.github.io/2016/12/04/hexo-ci/)，作者formulahendry。
+我这里没有添加`hexo-deployer-git --save`，因为觉得这种更新方式太麻烦了。我是利用Appveyor的持续集成方法，具体的可以参考[Hexo的版本控制与持续集成](https://formulahendry.github.io/2016/12/04/hexo-ci/)，作者formulahendry。
 
 ## 另一台电脑上的操作
 首先下载Node.js，并且安装。在新电脑上，在随便一个目录里，用git bash输入`npm install hexo-cli -g`安装hexo。打开你在新电脑上安装的github desktop，clone你的hexo仓库到本地另外一个文件夹。这个仓库里的文件是没法编译的，你缺的就是`node_modules`这个文件夹，所以拷贝刚才那个文件夹里生成的`node_modules`文件夹到你hexo仓库的根目录。然后在git bash里切换到你hexo仓库的文件夹，使用`npm install`进行模块安装，不要用`hexo init`。你可能要安装下面这些东西：
