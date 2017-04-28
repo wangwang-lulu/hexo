@@ -24,7 +24,7 @@ tags:
 我这里没有添加`hexo-deployer-git --save`，因为觉得这种更新方式太麻烦了。我是利用Appveyor的持续集成方法，具体的可以参考[Hexo的版本控制与持续集成](https://formulahendry.github.io/2016/12/04/hexo-ci/)，作者formulahendry。其实，如果你用了Appveyor，而且在新电脑上只是想添加几篇文章的话，在新电脑上直接用github desktop更新你的source文件夹就足够了。但是如果你还想继续调试hexo，或者使用一些便捷的方式添加文章的话，请继续往下看。
 
 ## 另一台电脑上的操作
-下载Node.js，并且安装。在新电脑上，在随便一个目录里安装hexo。，用git bash输入
+下载Node.js，并且安装。在新电脑上，在随便一个目录里安装hexo，在该目录下用git bash输入
 
 	npm install hexo-cli -g
 	npm install -g hexo
