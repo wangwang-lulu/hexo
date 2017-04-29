@@ -5,9 +5,9 @@ categories: Special Pages
 tags:
 - 初始网页
 photos:
-- /images/b7.jpg
-- /images/b5.jpg
-- /images/b9.jpg
+- /images/b4.jpg
+- /images/b2.jpg
+- /images/b6.jpg
 comments: false
 ---
 <blockquote class="blockquote-center">2017年4月25日更新。</blockquote>

@@ -6,7 +6,7 @@ tags:
 - 技术备忘
 
 ---
-<img src="/images/b12.jpg" class="full-image" />
+<img src="/images/wb4.jpg" class="full-image" />
 Hexo所提供的图片展示方法始终是有限的，但是要做一个简单而优雅的网站，太多的图片展示方式，反而会显得凌乱不堪。这里记录一下图片展示的各种方法，可以为日后的图文博客做模板。
 <!-- more -->
 {% note primary %} 
