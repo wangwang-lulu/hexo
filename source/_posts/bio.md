@@ -49,7 +49,3 @@ comments: false
 -  [Lu's Reality Marble](http://wangwanglulu.com) (博客，active)
 
 {% endnote %}
-
-
-
-
