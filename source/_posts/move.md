@@ -21,7 +21,7 @@ tags:
 然后就可以在github desktop里面commit了再上传到github。
 
 ## 持续集成
-我这里没有添加`hexo-deployer-git --save`，因为觉得这种更新方式太麻烦了。我是利用Appveyor的持续集成方法，具体的可以参考[Hexo的版本控制与持续集成](https://formulahendry.github.io/2016/12/04/hexo-ci/)，作者formulahendry。其实，如果你用了Appveyor，而且在新电脑上只是想添加几篇文章的话，在新电脑上直接用github desktop更新你的source文件夹就足够了。同理，可以用手机直接登录github的网页添加修改博客，随时随地写博客。但是如果你还想继续调试hexo，或者添加一些其他的功能的话，请继续往下看。
+我这里没有添加`hexo-deployer-git --save`，因为觉得这种更新方式太麻烦了。我是利用Appveyor的持续集成方法，具体的可以参考[Hexo的版本控制与持续集成](https://formulahendry.github.io/2016/12/04/hexo-ci/)。其实，如果你用了Appveyor，而且在新电脑上只是想添加几篇文章的话，在新电脑上直接用github desktop更新你的source文件夹就足够了。同理，可以用手机直接登录github的网页添加修改博客，随时随地写博客。但是如果你还想继续调试hexo，或者添加一些其他的功能的话，请继续往下看。
 
 ## 另一台电脑上的操作
 下载Node.js，并且安装。在新电脑上，在任意一个目录里创建名为`hexo`的文件夹，在里面安装hexo，在该目录下用git bash输入
