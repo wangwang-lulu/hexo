@@ -5,10 +5,13 @@ categories: Special Pages
 tags:
 - 初始网页
 ---
-<!-- more -->
 {% gp 4-2 %}
 {% asset_img g2.jpg This is an example image %}
 {% asset_img g1.jpg This is an example image %}
 {% asset_img g4.jpg This is an example image %}
 {% asset_img g5.jpg This is an example image %}
 {% endgp %}
+
+
+
+

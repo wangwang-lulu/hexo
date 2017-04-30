@@ -3,7 +3,8 @@ title: 网站搬家
 date: 2017-04-27 23:56:27
 categories: Hexo使用
 tags:
-- 技术备忘
+- 软件使用
+- Hexo优化
 
 ---
 <img src="/images/wb1.jpg" class="full-image" />

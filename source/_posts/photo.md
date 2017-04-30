@@ -3,7 +3,8 @@ title: 图片展示
 date: 2017-04-27 23:56:27
 categories: Hexo使用
 tags:
-- 技术备忘
+- 软件使用
+- Hexo优化
 
 ---
 <img src="/images/wb4.jpg" class="full-image" />
@@ -31,9 +32,9 @@ Hexo所提供的图片展示方法始终是有限的，但是要做一个简单�
 如果想在首页添加多个图片，就必须在标题栏里添加
 
 	photos:
-		- /images/b7.jpg
-		- /images/b6.jpg
-		- /images/b5.jpg
+	- /images/b7.jpg
+	- /images/b6.jpg
+	- /images/b5.jpg
 这里有三张图，所以这三张图并排在一行。如果是两张图就是，两张图并排在一行，并且把容器填满。据我自己测试，如果是四张图的话，第四张图就会被挤到第二排，然而第二排并没有被占满，后面留下丑陋的空白。如果是六张图的话，第一排三张图，第二排三张图，全部被占满，所以请思考一下用这种方式，放几张图比较好看。
 
 这里要注意了，以上的几种图片放置方式，都是支持fancybox的。下面要说的就是next主题内置的一个图片放置方式，不支持fancybox，但是首页显示会比较好看， 
@@ -49,7 +50,7 @@ Hexo所提供的图片展示方法始终是有限的，但是要做一个简单�
 
 	..\themes\next\scripts\tags\group-pictures.js
 
-这种放置的方式，缺点就是不能使用fancybox。而且点进文章里面后，图片的排列方式就变回原来的一行一图了,就像Gallery Test那样。下面介绍在文中展示图片的方法。
+这种放置的方式，缺点就是不能使用fancybox。而且点进文章里面后，图片的排列方式就变回原来的一行一图了，就像Gallery Test那样。下面介绍在文中展示图片的方法。
 {% note primary %} 
 ## 文中展示
 {% endnote %}
@@ -67,11 +68,45 @@ Hexo所提供的图片展示方法始终是有限的，但是要做一个简单�
 	}
 这样就没问题了，文内的布局和首页的布局一模一样。当然如果你不想这样，也可以不用修改，把这篇博客作为一个纯的gallery展示也是很优雅的。但是即便是这样，记住还是不能用fancybox。而且这种布局方式，是不能隐藏在文内的，就是说不能靠添加`<!-- more -->`来在文中展示多张图，而不显示到首页。
 
-如果你一定要在文章并排添加多张图，只好用最后的办法，手动修改图片的引用格式，就是像这样
+如果你一定要在文章并排添加多张图，只好用最后的办法，手动修改图片的引用格式，我直接添加了一个图片的class。如下这么做，我先修改了
 
-	<img src="/uploads/image-1.jpg" style="display: inline-block" />
-	<img src="/uploads/image-2.jpg" style="display: inline-block" />
-这样一行可以放置多个图片，也可以用fancybox了，也可以在`style`里面添加别的方式，随你喜欢了。当然如果你如只想一行放一张图，那就参考第一部分的首页一张图的放置方式吧。
+	\themes\next\source\css\_common\components\post.styl
+中的样式为
+
+	.post-body .fancybox img {
+	display: block; 
+	// !important;
+	margin: 0 auto;
+	cursor: pointer;
+	cursor: zoom-in;
+	cursor: -webkit-zoom-in;
+	}
+就是把`!important`去掉了。然后在
+
+	\themes\next\source\css\_custom.styl
+里面添加
+
+	.img-3.img-3.img-3 {
+	width: 33.3%; //一行三张，自己按百分比定义一行几张
+	display: inline-block; //单行放置
+	margin-bottom: -6px; //由于图片继承上一个class的底部横线，先覆盖
+	background: white; //定义背景色，遮盖横线
+	border: none; //去掉相框，可选
+	}
+然后我们的引用图片格式是
+
+    <img src="/images/wb4.jpg" class="img-3" />
+
+效果如下：
+一张图
+<img src="/images/wb4.jpg" class="img-3" />
+
+三张图
+<img src="/images/wb4.jpg" class="img-3" /><img src="/images/wb4.jpg" class="img-3" /><img src="/images/wb4.jpg" class="img-3" />
+
+这样一行可以放置多个图片，也可以用fancybox了，比如可以在游记后面堆一些图，不用每张都是高清大图。另外要提一下的是，这里没有定义`max-height`，所以如果图片比例不一样，一行的图片会有高低不平，解决办法是：别搞一些比例奇怪的图放在一起。即使你在电脑上浏览正常，到了手机还是会出问题。
+
+关于多张图片放置问题，更深入的修改就不知道，毕竟我的初衷不是做一个技术博客。当然如果你如只想一行放一张图，那就参考第一部分的首页展示一张图的放置方式吧。
 
 
 {% note danger %} 
