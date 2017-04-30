@@ -6,10 +6,10 @@ tags:
 - 初始网页
 ---
 {% gp 4-2 %}
-{% asset_img g2.jpg This is an example image %}
-{% asset_img g1.jpg This is an example image %}
-{% asset_img g4.jpg This is an example image %}
-{% asset_img g5.jpg This is an example image %}
+{% asset_img 1.jpg This is an example image %}
+{% asset_img 2.jpg This is an example image %}
+{% asset_img 3.jpg This is an example image %}
+{% asset_img 4.jpg This is an example image %}
 {% endgp %}
 
 
