@@ -110,7 +110,7 @@ font:
   # Fallback to `global` font settings.
   headings:
     external: true
-    family: SourceHanSerifCN-Bold
+    family: SourceHanSerifCN-Heavy
 
   # Font settings for posts
   # Fallback to `global` font settings.
