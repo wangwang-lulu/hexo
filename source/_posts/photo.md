@@ -1,5 +1,5 @@
 ---
-title: 图片展示
+title: Hexo：图片展示
 date: 2017-04-27 23:56:27
 categories: Hexo使用
 tags:
