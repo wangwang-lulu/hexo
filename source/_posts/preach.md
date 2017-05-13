@@ -39,3 +39,9 @@ tags:
 (PS. 我已经想好怎么回答他接下来的问题了，诸如什么rules，信仰等等。
 
 但是他既然已经“男默女泪”了，我也只好“人艰不拆”。)
+
+{% note danger %} 
+**本文作者**： Lu Wang
+**本文链接**： http://wangwanglulu.com/2017/04/28/preach/
+**版权声明**： 本博客所有文章除特别声明外，均采用 [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/cn/) 许可协议。转载请注明出处！
+{% endnote %}
