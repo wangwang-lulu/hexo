@@ -1,5 +1,5 @@
 ---
-title: 旧文1：建站小记
+title: 旧文一：建站小记
 date: 2017-04-26 22:37:18
 categories: 生活随笔
 tags:
