@@ -14,4 +14,8 @@ tags:
 {% note primary %}
 ### 空壳文明
 {% endnote %}
-to be continued
+就像大清国为我国电视剧事业做出了巨大贡献一样，埃及文明在西方幻想类题材的影视剧游戏方面同样功不可没。可惜的是什么呢？可惜的是埃及和另外两个古文明一样，没有传承文明的人，真正的埃及人早就绝种了。四大文明只有中华文明，像打不死的小强一样，代代传承。那现在埃及住的是什么人？全是阿拉伯人。既然是阿拉伯人，就少不了清真寺，真尼玛受不了。
+
+<img src="/images/egypt/IMG_1505.jpg" class="img-2" /><img src="/images/egypt/IMG_1509.jpg" class="img-2" />
+
+To be continued
