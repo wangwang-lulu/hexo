@@ -24,6 +24,7 @@ tags:
 
 #### 萨尔茨堡
 萨尔茨堡以其为莫扎特故居著称。当然奥地利的著名音乐家多了去了，上面的五角星里面是舒伯特，以及拥有《蓝色多瑙河》这样传世名作的小约翰施特劳斯。莫扎特之所以这么有代表性，我认为多有被世人神化的色彩。萨尔茨堡还有很多别的景点，然而此地最让我印象深刻竟然是玩具博物馆，玩具以胡桃夹子为主，胡桃夹子木偶在奥地利有特殊的意义，象征着孩子们的保护神。同样歌剧《胡桃夹子》也是维也纳国家歌剧院反复上演的经典剧目，只不过作者是俄国的柴可夫斯基。
+
 <img src="/images/austria/P1010158.jpg" class="img-h" /><img src="/images/austria/P1010110.jpg" class="img-h" /><img src="/images/austria/P1010159.jpg" class="img-h" /><img src="/images/austria/P1010162.jpg" class="img-h" /><img src="/images/austria/P1010167.jpg" class="img-h" /><img src="/images/austria/P1010168.jpg" class="img-h" /><img src="/images/austria/P1010166.jpg" class="img-h" /><img src="/images/austria/P1010170.jpg" class="img-h" />
 
 {% note primary %}
