@@ -52,7 +52,7 @@ tags:
 {% endnote %}
 哈尔施塔特其实我们最先去到的地方，是奥地利的一个村庄，本文最开始的图片来自网络，就是该村落的一景。因为奥地利以人文景观为主，最多的就是博物馆和故居，博物馆又不允许拍照，所以能呈现的部分不多，即便是呈现的照片也都没P过，但是又干嘛要P呢？我觉得，无论怎样做，单一的视觉呈现都不能完整的表达奥地利，倒不如以此作为引子，走走听觉的路子，或许会有更加深刻的体验。下面这首就是在Mozarts Wohnhaus里面循环播放的单曲。
 
-{% aplayer "Piano Sonata no. 10 in C major, K. 330" "Mozart" "/music/Mozart K330" "/music/Mozart.jpg" %}
+{% aplayer "Piano Sonata no. 10 in C major, K. 330 - III." "Mozart" "/music/Mozart K330.mp3" "/music/Mozart.jpg" %}
 
 <img src="/images/austria/P1010032.jpg" class="img-h" /><img src="/images/austria/IMG_0506.jpg" class="img-h" /><img src="/images/austria/P1010037.jpg" class="img-h" /><img src="/images/austria/P1010047.jpg" class="img-h" /><img src="/images/austria/P1010052.jpg" class="img-h" /><img src="/images/austria/IMG_0540.jpg" class="img-h" /><img src="/images/austria/P1010115.jpg" class="img-h" /><img src="/images/austria/P1010122.jpg" class="img-h" /><img src="/images/austria/P1010129.jpg" class="img-h" /><img src="/images/austria/P1010138.jpg" class="img-h" /><img src="/images/austria/P1010141.jpg" class="img-h" /><img src="/images/austria/P1010064.jpg" class="img-h" /><img src="/images/austria/P1010031.jpg" class="img-h" /><img src="/images/austria/IMG_0508.jpg" class="img-h" /><img src="/images/austria/P1010156.jpg" class="img-h" /><img src="/images/austria/P1010015.jpg" class="img-h" /><img src="/images/austria/P1010021.jpg" class="img-h" /><img src="/images/austria/P1010010.jpg" class="img-h" />
 
