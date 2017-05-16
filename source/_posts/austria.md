@@ -57,7 +57,7 @@ tags:
 <img src="/images/austria/P1010032.jpg" class="img-h" /><img src="/images/austria/IMG_0506.jpg" class="img-h" /><img src="/images/austria/P1010037.jpg" class="img-h" /><img src="/images/austria/P1010047.jpg" class="img-h" /><img src="/images/austria/P1010052.jpg" class="img-h" /><img src="/images/austria/IMG_0540.jpg" class="img-h" /><img src="/images/austria/P1010115.jpg" class="img-h" /><img src="/images/austria/P1010122.jpg" class="img-h" /><img src="/images/austria/P1010129.jpg" class="img-h" /><img src="/images/austria/P1010138.jpg" class="img-h" /><img src="/images/austria/P1010141.jpg" class="img-h" /><img src="/images/austria/P1010064.jpg" class="img-h" /><img src="/images/austria/P1010031.jpg" class="img-h" /><img src="/images/austria/IMG_0508.jpg" class="img-h" /><img src="/images/austria/P1010156.jpg" class="img-h" /><img src="/images/austria/P1010015.jpg" class="img-h" /><img src="/images/austria/P1010021.jpg" class="img-h" /><img src="/images/austria/P1010010.jpg" class="img-h" />
 
 
-(PS. 当然最后那个是扯淡的，随便找了一首莫扎特的钢琴奏鸣而已，并不是什么背景音乐，那么久远的事情我怎么可能还记得。有兴趣可以到[Musopen](https://musopen.org/)去找找听听。)
+(PS. 当然最后那个是扯淡的，随便找了一首莫扎特的钢琴奏鸣曲而已，并不是什么背景音乐，那么久远的事情我怎么可能还记得。有兴趣可以到[Musopen](https://musopen.org/)去找找听听。)
 
 {% note danger %} 
 **本文作者**： Lu Wang
