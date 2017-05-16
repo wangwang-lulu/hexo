@@ -1,6 +1,6 @@
 ---
 title: 行忆画廊二：奥地利
-date: 2017-05-13 21:39:56
+date: 2017-05-15 21:39:56
 categories: 旅行回忆
 tags:
 - 欧美游记
@@ -52,6 +52,13 @@ tags:
 哈尔施塔特其实我们最先去到的地方，是奥地利的一个村庄，本文最开始的图片来自网络，就是该村落的一景。因为奥地利以人文景观为主，最多的就是博物馆和故居，博物馆又不允许拍照，所以能呈现的部分不多，即便是呈现的照片也都没P过，但是又干嘛要P呢？我觉得，无论怎样做，单一的视觉呈现都不能完整的表达奥地利，倒不如以此作为引子，走走听觉的路子，或许会有更加深刻的体验。
 
 <img src="/images/austria/P1010032.jpg" class="img-h" /><img src="/images/austria/IMG_0506.jpg" class="img-h" /><img src="/images/austria/P1010037.jpg" class="img-h" /><img src="/images/austria/P1010047.jpg" class="img-h" /><img src="/images/austria/P1010052.jpg" class="img-h" /><img src="/images/austria/IMG_0540.jpg" class="img-h" /><img src="/images/austria/P1010115.jpg" class="img-h" /><img src="/images/austria/P1010122.jpg" class="img-h" /><img src="/images/austria/P1010129.jpg" class="img-h" /><img src="/images/austria/P1010138.jpg" class="img-h" /><img src="/images/austria/P1010141.jpg" class="img-h" /><img src="/images/austria/P1010064.jpg" class="img-h" /><img src="/images/austria/P1010031.jpg" class="img-h" /><img src="/images/austria/IMG_0508.jpg" class="img-h" /><img src="/images/austria/P1010156.jpg" class="img-h" /><img src="/images/austria/P1010015.jpg" class="img-h" /><img src="/images/austria/P1010021.jpg" class="img-h" /><img src="/images/austria/P1010010.jpg" class="img-h" />
+
+{% note danger %} 
+**本文作者**： Lu Wang
+**本文链接**： http://wangwanglulu.com/2017/05/15/austria/
+**版权声明**： 本博客所有文章除特别声明外，均采用 [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/cn/) 许可协议。转载请注明出处！
+{% endnote %}
+
 
 
 
