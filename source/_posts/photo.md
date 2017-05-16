@@ -110,6 +110,5 @@ Hexo所提供的图片展示方法始终是有限的，但是要做一个简单�
 
 {% note danger %} 
 **本文作者**： Lu Wang
-**本文链接**： http://wangwanglulu.com/2017/05/01/photo/
 **版权声明**： 本博客所有文章除特别声明外，均采用 [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/cn/) 许可协议。转载请注明出处！
 {% endnote %}
