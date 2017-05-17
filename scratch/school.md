@@ -4,7 +4,7 @@ date: 2017-05-10 23:58:46
 categories: 生活随笔
 tags:
 - 负能量随笔
-- 胡思乱写
+- 生活杂谈
 
 ---
 <img src="/images/b41.jpg" class="img-1f" />
