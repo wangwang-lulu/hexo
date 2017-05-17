@@ -63,3 +63,8 @@ tags:
 Shit, 跟我在游戏中的排名一样。。。
 
 <img src="/images/ranking/Blog002pic2.jpg" class="img-1" />
+
+{% note danger %} 
+**本文作者**： Lu Wang
+**版权声明**： 本博客所有文章除特别声明外，均采用 [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/cn/) 许可协议。转载请注明出处！
+{% endnote %}
