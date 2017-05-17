@@ -62,7 +62,7 @@ tags:
 
 Shit, 跟我在游戏中的排名一样。。。
 
-<img src="/images/ranking/Blog002pic2.jpg" class="img-1" />
+<img src="/images/ranking/Blog002pic2.jpg" class="img-3" />
 
 {% note danger %} 
 **本文作者**： Lu Wang
