@@ -10,7 +10,7 @@ tags:
 <img src="/images/sitebuild/Blog001pic0.jpg" class="img-1f" />
 
 {% note warning%}
-本文写于2016年6月7日
+本文写于2015年7月4日
 {% endnote %}
 本文记录了他手工原创的不好用 (但是确很好看) 的第一版主页的心路历程。该网站已弃用，不过依然可以浏览。
 
