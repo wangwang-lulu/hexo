@@ -12,7 +12,7 @@ tags:
 {% note warning%}
 本文写于2017年6月7日
 {% endnote %}
-本文负能量满溢，不喜勿读。
+本文负能量满满，不喜勿读。
 <!-- more -->
 {% note primary %}
 ### 楔子
