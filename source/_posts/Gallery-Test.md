@@ -4,7 +4,6 @@ date: 2017-04-20 14:54:09
 categories: Special Pages
 tags:
 - 初始网页
-type: "picture"
 ---
 {% gp 4-2 %}
 {% asset_img 1.jpg This is an example image %}
