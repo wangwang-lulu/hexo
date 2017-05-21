@@ -51,7 +51,7 @@ comments: false
 {% endnote %}
 
 {% note warning %} 
-## 联系方式 (Personal)
+## 联系方式 
 
 -  E-mail: wangwanglulu@gmail.com
 -  Domain: [wangwanglulu.com](http://wangwanglulu.com)
