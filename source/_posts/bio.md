@@ -49,3 +49,12 @@ comments: false
 -  [Lu's Reality Marble](http://wangwanglulu.com) (博客，active)
 
 {% endnote %}
+
+{% note warning %} 
+### 联系方式 (Personal)
+
+-  E-mail: wangwanglulu@gmail.com
+-  Domain: [wangwanglulu.com](http://wangwanglulu.com)
+-  Wechat: wangwanglulu
+
+{% endnote %}
