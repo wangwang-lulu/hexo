@@ -1,7 +1,6 @@
 ---
 title: 
 date: 2017-05-21 14:54:09
-categories: Special Pages
 type: "picture"
 ---
 {% gp 4-2 %}
