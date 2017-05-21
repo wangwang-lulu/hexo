@@ -46,10 +46,8 @@ index_with_subtitle: false
 menu:
   home: /
   categories: /categories
-
   tags: /tags
   archives: /archives
-  #message: /message
   about: /2017/04/25/bio
   #sitemap: /sitemap.xml
   #commonweal: /404.html
