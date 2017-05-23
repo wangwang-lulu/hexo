@@ -139,3 +139,139 @@ h1, h2, h3, h4, h5, h6 { font-weight: normal;
   margin-left: auto;
   margin-right: auto;
   }
+
+/* NAVIGATION */
+.navigation {
+  list-style: none;
+  padding: 0;
+  width: 200px; 
+  height: 40px; 
+  margin: 20px auto;
+  background: #34495e;
+  position: relative; 
+  z-index: 100;
+}
+
+.navigation, .navigation a.main {
+  border-radius: 4px;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+}
+
+.navigation:hover, .navigation:hover a.main {
+  border-radius: 4px 4px 0 0;
+  -webkit-border-radius: 4px 4px 0 0;
+  -moz-border-radius: 4px 4px 0 0;
+}
+
+.navigation a.main {
+  display: block; 
+  height: 40px;
+  font: bold 15px/40px  Microsoft YaHei; 
+  text-align: center; 
+  text-decoration: none; 
+  color: #FFF;  
+  -webkit-transition: 0.2s ease-in-out;
+  -o-transition: 0.2s ease-in-out;
+  transition: 0.2s ease-in-out;
+  position: relative;
+  z-index: 100;
+  padding-bottom: 0px;
+}
+
+.navigation:hover a.main {
+  color: rgba(255,255,255,0.6);
+  background: rgba(0,0,0,0.04);
+  padding-bottom: 0px;
+}
+
+.navigation li { 
+  width: 200px; 
+  height: 40px;
+  background: #F7F7F7;
+  font: normal 14px/40px  Microsoft YaHei !important; 
+  color: #999;
+  text-align: center;
+  margin: 0;
+  -webkit-transform-origin: 50% 0%;
+  -o-transform-origin: 50% 0%;
+  transform-origin: 50% 0%;
+  -webkit-transform: perspective(350px) rotateX(-90deg);
+  -o-transform: perspective(350px) rotateX(-90deg);
+  transform: perspective(350px) rotateX(-90deg);
+  box-shadow: 0px 2px 10px rgba(0,0,0,0.05);
+  -webkit-box-shadow: 0px 2px 10px rgba(0,0,0,0.05);
+  -moz-box-shadow: 0px 2px 10px rgba(0,0,0,0.05);
+a{border-bottom: none;}
+a:hover{color: black;}}
+
+.navigation li:nth-child(even) { background: #E3E3F0; }
+.navigation li:nth-child(odd) { background: #EDEEF7; }
+
+.navigation li.n1 { 
+  -webkit-transition: 0.1s linear 0.5s;
+  -o-transition: 0.1s linear 0.5s;
+  transition: 0.1s linear 0.5s;
+}
+.navigation li.n2 {
+  -webkit-transition: 0.1s linear 0.4s;
+  -o-transition: 0.1s linear 0.4s;
+  transition: 0.1s linear 0.4s;
+}
+.navigation li.n3 {
+  -webkit-transition: 0.1s linear 0.3s;
+  -o-transition: 0.1s linear 0.3s;
+  transition: 0.1s linear 0.3s;
+}
+.navigation li.n4 { 
+border-radius: 0px 0px 4px 4px;
+  -webkit-transition:0.1s linear 0.2s;
+  -o-transition:0.1s linear 0.2s;
+  transition:0.1s linear 0.2s;
+}
+.navigation li.n5 {
+  -webkit-transition: 0.1s linear 0.1s;
+  -o-transition: 0.1s linear 0.1s;
+  transition: 0.1s linear 0.1s;
+}
+.navigation li.n6 {
+  border-radius: 0px 0px 4px 4px;
+  -webkit-transition: 0.1s linear 0s;
+  -o-transition: 0.1s linear 0s;
+  transition: 0.1s linear 0s;
+}
+
+.navigation:hover li {
+  -webkit-transform: perspective(350px) rotateX(0deg);
+  -o-transform: perspective(350px) rotateX(0deg);
+  transform: perspective(350px) rotateX(0deg);
+  -webkit-transition:0.1s linear 0s;
+  -o-transition:0.1s linear 0s;
+  transition:0.1s linear 0s;
+}
+.navigation:hover .n2 {
+  -webkit-transition-delay: 0.1s;
+  -o-transition-delay: 0.1s;
+  transition-delay: 0.1s;
+}
+.navigation:hover .n3 {
+  -webkit-transition-delay: 0.2s;
+  -o-transition-delay: 0.2s;
+  transition-delay: 0.2s;
+}
+.navigation:hover .n4 {
+  transition-delay: 0.3s;
+  -o-transition-delay: 0.3s;
+  transition-delay: 0.3s;
+}
+.navigation:hover .n5 {
+  -webkit-transition-delay: 0.4s;
+  -o-transition-delay: 0.4s;
+  transition-delay: 0.4s;
+}
+.navigation:hover .n6 {
+  -webkit-transition-delay: 0.5s;
+  -o-transition-delay: 0.5s;
+  transition-delay: 0.5s;
+}
+
