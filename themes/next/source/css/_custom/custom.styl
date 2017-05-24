@@ -140,18 +140,17 @@ h1, h2, h3, h4, h5, h6 { font-weight: normal;
   margin-right: auto;
   }
 
-.navigation {
-  list-style: none;
+.navigation {display: none; 
+  +mobile(){list-style: none;
   padding: 0;
   width: 70px; 
   height: 40px; 
   margin: 0px 3px auto;
-  background: #E9DDC6;
+  background: #E9C6C6;
   position: relative; 
   z-index: 1030;
   float: right;
-  +desktop(){display: none;}
-  +tablet(){display: none;}
+  display: initial;}
 }
 
 .navigation, .navigation a.main {
