@@ -22,6 +22,13 @@
         <p class="site-subtitle">{{ config.subtitle }}</p>
       {% endif %}
   </div>
+    <ul class="navigation">
+            <a class="main" href="#url">快速通道</a>
+            <li class="n1"><a href="/categories/学问技术/">学问技术</a></li>
+            <li class="n2"><a href="/categories/旅行回忆/">旅行回忆</a></li>
+            <li class="n3"><a href="/categories/游赏系列/">游赏系列</a></li>
+            <li class="n4"><a href="/categories/生活随笔/">生活随笔</a></li>
+         </ul>
 
   <div class="site-nav-toggle">
     <button>
@@ -34,13 +41,7 @@
 
 <nav class="site-nav">
   {% set hasSearch = theme.swiftype_key || theme.algolia_search.enable || theme.tinysou_Key || theme.local_search.enable %}
-  <ul class="navigation">
-            <a class="main" href="#url">快速通道</a>
-            <li class="n1"><a href="/categories/学问技术/">学问技术</a></li>
-            <li class="n2"><a href="/categories/旅行回忆/">旅行回忆</a></li>
-            <li class="n3"><a href="/categories/游赏系列/">游赏系列</a></li>
-            <li class="n4"><a href="/categories/生活随笔/">生活随笔</a></li>
-         </ul>
+
 
   {% if theme.menu %}
     <ul id="menu" class="menu">
