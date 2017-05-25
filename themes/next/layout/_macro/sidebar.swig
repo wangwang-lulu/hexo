@@ -7,6 +7,7 @@
     </div>
   </div>
 
+
   <aside id="sidebar" class="sidebar">
     <div class="sidebar-inner">
 
@@ -148,7 +149,7 @@
       <!--/noindex-->
       {% endif %}
 
-      {% if theme.sidebar.b2t %}
+          {% if theme.sidebar.b2t %}
         <div class="back-to-top">
           <i class="fa fa-arrow-up"></i>
           {% if theme.sidebar.scrollpercent %}
@@ -159,5 +160,14 @@
 
     </div>
   </aside>
+  <div class="content-wrap">
+  <ul class="navigation">
+            <a class="main" >GO!</a>
+            <li class="n1"><a href="/categories/学问技术/">学问技术</a></li>
+            <li class="n2"><a href="/categories/旅行回忆/">旅行回忆</a></li>
+            <li class="n3"><a href="/categories/游赏系列/">游赏系列</a></li>
+            <li class="n4"><a href="/categories/生活随笔/">生活随笔</a></li>
+         </ul>
+         </div>
 
 {% endmacro %}
