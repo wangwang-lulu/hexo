@@ -22,7 +22,7 @@
         <p class="site-subtitle">{{ config.subtitle }}</p>
       {% endif %}
   </div>
-   <ul class="navigation">
+   <ul class="navigationx">
             <a class="main" href="#url">GO!</a>
             <li class="n1"><a href="/categories/学问技术/">学问技术</a></li>
             <li class="n2"><a href="/categories/旅行回忆/">旅行回忆</a></li>
