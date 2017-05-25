@@ -1,7 +1,7 @@
 ---
 title: Hexo：网站搬家
 date: 2017-04-27 23:56:27
-categories: 学问技术
+categories: 学术技术
 tags:
 - 软件使用
 - Hexo优化
