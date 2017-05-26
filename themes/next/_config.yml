@@ -144,7 +144,7 @@ font:
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
 social:
   #LinkLabel: Link
-  GitHub: https://github.com/wangwanglulu
+  GitHub: https://github.com/wangwang-lulu
   简书: http://www.jianshu.com/users/00624ad0a1fb/timeline
 
 
@@ -215,6 +215,7 @@ links_title: Links
 #links_layout: inline
 links:
   Lu's Notebook: https://wangwanglulu.github.io
+  GFsoso: http://gfsoso.fcczp.com
 
 
 
