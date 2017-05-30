@@ -2,6 +2,7 @@
 title: 行忆画廊二：奥地利
 date: 2017-05-15 21:39:56
 categories: 旅行回忆
+feature: /images/austria/feature.jpg
 tags:
 - 欧美游记
 - 旅行画廊

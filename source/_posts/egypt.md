@@ -2,6 +2,7 @@
 title: 行忆画廊一：埃及
 date: 2017-05-13 21:39:56
 categories: 旅行回忆
+feature: /images/egypt/feature.jpg
 tags:
 - 亚非拉游记
 - 旅行画廊

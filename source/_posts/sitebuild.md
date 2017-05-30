@@ -2,6 +2,7 @@
 title: 旧文一：建站小记
 date: 2017-04-26 10:37:18
 categories: 生活随笔
+feature: /images/sitebuild/Blog001pic0.jpg
 tags:
 - 正能量随笔
 - 生活杂谈

@@ -2,6 +2,7 @@
 title: 随笔：流派
 date: 2017-05-10 23:58:46
 categories: 生活随笔
+feature: /images/b41.jpg
 tags:
 - 负能量随笔
 - 生活杂谈

@@ -21,6 +21,10 @@
       <meta itemprop="name" content="{{ config.title }}">
     </span>
 
+    {% if post.feature %}
+    <img class="featureimg" src="{{ url_for(post.feature) }}">
+    {% endif %}
+
     {% if not headlessPost %}
       <header class="post-header">
 

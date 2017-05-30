@@ -2,6 +2,7 @@
 title: 游赏：前言
 date: 2017-05-07 13:13:37
 categories: 游赏系列
+feature: /images/b18.jpg
 tags:
 - 小众游戏
 - 游戏机制

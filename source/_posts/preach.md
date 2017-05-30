@@ -2,6 +2,7 @@
 title: 旧文二：传教
 date: 2017-04-26 12:37:18
 categories: 生活随笔
+feature: /images/b3.jpg
 tags:
 - 正能量随笔
 - 生活杂谈

@@ -2,16 +2,14 @@
 title: 关于
 date: 2017-04-25 22:28:00
 categories: Special Pages
+feature: /images/b6.jpg
 tags:
 - 初始网页
-photos:
-- /images/b4.jpg
-- /images/b2.jpg
-- /images/b6.jpg
 comments: false
 ---
-<blockquote class="blockquote-center">2017年4月25日更新。</blockquote>
+<img src="/images/b4.jpg" class="img-3bio" /><img src="/images/b2.jpg" class="img-3bio" /><img src="/images/b6.jpg" class="img-3bio" />
 
+<blockquote class="blockquote-center">2017年4月25日更新。</blockquote>
 
 博主是我。除了这个网站，还有用于工作的平台 ([Lu's Notebook](http://wangwanglulu.github.io)) 以及基于wordpress的博客平台 ([Lu Wang Zone](http://dearlu.wang))。我个人最喜欢的，就是您现在看到的这个网站。
 
