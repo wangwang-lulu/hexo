@@ -160,6 +160,8 @@
 
     </div>
   </aside>
+<a href="#" id="button" class="newbutton">GRID</a>
+
   <div class="content-wrap">
   <ul class="navigation">
             <a class="main" >GO!</a>
