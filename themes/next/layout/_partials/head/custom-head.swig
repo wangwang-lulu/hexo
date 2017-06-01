@@ -8,6 +8,7 @@ $(document).ready(function(){
         $("div.content").toggleClass("new");
         $("article").toggleClass("grid");
         $("div.main-inner").toggleClass("ginner");
+        $("p").toggleClass("gp");
     });
 });
 </script>
