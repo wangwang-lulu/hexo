@@ -5,7 +5,7 @@ categories: 生活随笔
 feature: /images/b41.jpg
 tags:
 - 负能量随笔
-- 生活杂谈
+- 杂谈
 
 ---
 <img src="/images/b41.jpg" class="img-1f" />

@@ -5,7 +5,7 @@ categories: 生活随笔
 feature: /images/sitebuild/Blog001pic0.jpg
 tags:
 - 正能量随笔
-- 生活杂谈
+- 杂谈
 
 ---
 <img src="/images/sitebuild/Blog001pic0.jpg" class="img-1f" />

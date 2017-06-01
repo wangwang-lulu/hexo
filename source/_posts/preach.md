@@ -5,7 +5,7 @@ categories: 生活随笔
 feature: /images/b3.jpg
 tags:
 - 正能量随笔
-- 生活杂谈
+- 杂谈
 
 ---
 <img src="/images/b3.jpg" class="img-1f" />
