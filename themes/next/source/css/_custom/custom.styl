@@ -242,13 +242,15 @@ column-count:2;
     right: 57px;
     bottom: 18px;  }
   +mobile() {
-    display: none;
+    right: 50px;
+    bottom: 18px;
   }}
 
   .lh1 {+desktop(){font-size:20px !important;}
         +tablet(){font-size:20px !important;}}
   .img-flist {+desktop(){display: none !important;}
-              +tablet(){display: none !important;}}
+              +tablet(){display: none !important;}
+              +mobile(){display: none !important;}}
   .lmeta {+desktop(){margin-bottom: -10px !important;}
           +tablet(){margin-bottom: -10px !important;}}
   .list {+desktop(){padding: 20px !important;}
