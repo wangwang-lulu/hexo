@@ -19,7 +19,6 @@ $(document).ready(function(){
 $(document).ready(function(){
     $("#button2").click(function(){
         $("img").toggleClass("img-flist");
-        $("h1").toggleClass("lh1");
         $("article").toggleClass("list");
         $("div.post-meta").toggleClass("lmeta");
     });
