@@ -176,24 +176,15 @@ h1, h2, h3, h4, h5, h6 { font-weight: normal;
 /* mobile version*/
 
 /* layout change */
-.new {+desktop(){
-column-count:2;
--moz-column-count:2;
--webkit-column-count: 2}
-}
 
-.grid {+desktop(){-webkit-column-break-inside: avoid;
-    page-break-inside: avoid;
-    break-inside: avoid-column;}
-    }
 
-.newbutton {position: fixed;
+.newbutton1 {position: fixed;
     right: 157px;
-    bottom: 18px;
+    bottom: 45px;
     list-style: none;
     padding: 0;
-    width: 35px;
-    height: 52px;
+    width: 50px;
+    height: 24px;
     margin: 0px 3px auto;
     background: #c9ce2b;
     z-index: 1050;
@@ -204,7 +195,7 @@ column-count:2;
     border-bottom: none;
     border-radius: 3px;
     font-size: 12px;
-    line-height: 52px;
+    line-height: 24px;
       +tablet() {
     display: none;
   }
@@ -212,8 +203,56 @@ column-count:2;
     display: none;
   }}
 
+.new {+desktop(){
+column-count:2;
+-moz-column-count:2;
+-webkit-column-count: 2}
+}
+
+.grid {+desktop(){-webkit-column-break-inside: avoid;
+    page-break-inside: avoid;
+    break-inside: avoid-column;
+    padding: 20px !important;}
+    }
+
   .ginner {+desktop(){width: 900px;}}
   .gp {+desktop(){font-size:14px;}}
+  .gh1 {+desktop(){font-size:20px !important;}}
+  .gmeta {+desktop(){margin-bottom: 30px !important;}}
+
+    .newbutton2 {position: fixed;
+    right: 157px;
+    bottom: 17px;
+    list-style: none;
+    padding: 0;
+    width: 50px;
+    height: 24px;
+    margin: 0px 3px auto;
+    background: #C76AC0;
+    z-index: 1050;
+    cursor: pointer;
+    box-shadow: 0 0 3px rgba(0,0,0,0.5);
+    text-align: center;
+    color: #fff;
+    border-bottom: none;
+    border-radius: 3px;
+    font-size: 12px;
+    line-height: 24px;
+      +tablet() {
+    right: 57px;
+    bottom: 18px;  }
+  +mobile() {
+    display: none;
+  }}
+
+  .lh1 {+desktop(){font-size:20px !important;}
+        +tablet(){font-size:20px !important;}}
+  .img-flist {+desktop(){display: none !important;}
+              +tablet(){display: none !important;}}
+  .lmeta {+desktop(){margin-bottom: -10px !important;}
+          +tablet(){margin-bottom: -10px !important;}}
+  .list {+desktop(){padding: 20px !important;}
+         +tablet(){padding: 20px !important;}}
 /* layout change */
  
 

@@ -160,7 +160,8 @@
 
     </div>
   </aside>
-<a href="#" id="button" class="newbutton">GRID</a>
+<a href="#" id="button1" class="newbutton1">GRID</a>
+<a href="#" id="button2" class="newbutton2">CLEAN</a>
 
   <div class="content-wrap">
   <ul class="navigation">
