@@ -290,6 +290,13 @@
             <a class="btn" href="{{ url_for(post.path) }}{% if theme.scroll_to_more %}#{{ __('post.more') }}{% endif %}" rel="contents">
               {{ __('post.read_more') }} &raquo;
             </a>
+
+        <div class="post-tags-readmore">
+          {% for tag in post.tags %}
+            <a href="{{ url_for(tag.path) }}" rel="tag"><i class="fa fa-tag"></i> {{ tag.name }}</a>
+          {% endfor %}
+        </div>
+
           </div>
           <!--/noindex-->
         {% elif theme.auto_excerpt.enable %}
@@ -337,7 +344,7 @@
       {% if post.tags and post.tags.length and not is_index %}
         <div class="post-tags">
           {% for tag in post.tags %}
-            <a href="{{ url_for(tag.path) }}" rel="tag"> {{ tag.name }}</a>
+            <a href="{{ url_for(tag.path) }}" rel="tag"><i class="fa fa-tag"></i> {{ tag.name }}</a>
           {% endfor %}
         </div>
       {% endif %}
