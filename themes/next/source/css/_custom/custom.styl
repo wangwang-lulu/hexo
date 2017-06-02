@@ -287,8 +287,6 @@ column-count:2;
 
   .newbutton3:hover{color: rgba(34, 34, 34, 0.3);}
 
-  .nowidget {+desktop(){display:initial !important;}}
-
   .newbutton4 {position: fixed;
     right: 157px;
     bottom: 17px;
@@ -319,7 +317,7 @@ column-count:2;
  
 /* calendar */
 .widget {
-    background: #fff;
+    +desktop() {background: #fff;
     -webkit-box-shadow: -1px 1px 5px #ccc;
     box-shadow: -1px 1px 5px #ccc;
     border: 1px solid #ddd;
@@ -331,7 +329,7 @@ column-count:2;
     right: 10px;
     border-radius: 5px;
     padding-bottom: 20px;
-    display: none;
+    display: none;}
      +tablet() {
     display: none;
   }

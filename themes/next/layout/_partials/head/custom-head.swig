@@ -28,7 +28,8 @@ $(document).ready(function(){
 <script>
 $(document).ready(function(){
     $("#button3").click(function(){
-        $("div.widget").toggleClass("nowidget");
+        $("div.widget").toggle();
     });
 });
 </script>
+
