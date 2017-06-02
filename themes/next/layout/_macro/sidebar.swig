@@ -165,8 +165,14 @@
 <a href="#" id="button2" class="newbutton2">CLEAN</a>
 
           <div class="widget">
-          <h4 class="caltitle">Cloud Calendar</h4>
+          <p class="caltitle">Cloud Calendar</p>
           <div id="calendar"></div>
+          <div class="xx">
+          <div class="yyy">
+          <p class="preview">下篇预告:</p>
+          <p class="preview">神叨系列：反乌托邦</p>
+          <div class="xxx"><img src="/images/preview.png" style="border-radius: 5px; height: 100%;"/></div>
+          </div>
           </div> 
 
   <div class="content-wrap">
