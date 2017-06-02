@@ -78,6 +78,9 @@
   {% include '_third-party/mathjax.swig' %}
   {% include '_third-party/scroll-cookie.swig' %}
   {% include '_third-party/exturl.swig' %}
+  <script  src="/js/src/calendar.js"></script>
+  <script  src="/js/src/languages.js"></script>
   <script type="text/javascript" src="/js/src/tryit.js"></script>
+
 </body>
 </html>

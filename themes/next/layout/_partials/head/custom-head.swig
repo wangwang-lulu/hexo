@@ -24,3 +24,11 @@ $(document).ready(function(){
     });
 });
 </script>
+
+<script>
+$(document).ready(function(){
+    $("#button3").click(function(){
+        $("div.widget").toggleClass("nowidget");
+    });
+});
+</script>

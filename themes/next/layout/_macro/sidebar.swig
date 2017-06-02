@@ -118,7 +118,7 @@
                 </li>
               {% endfor %}
             </ul>
-             
+
           </div>
          
         {% endif %}
@@ -160,8 +160,15 @@
 
     </div>
   </aside>
-<a href="#" id="button1" class="newbutton1">GRID</a>
+<a href="/message/" id="button4" class="newbutton4">MESG</a>          
+<a href="#" id="button3" class="newbutton3">DATE</a>
 <a href="#" id="button2" class="newbutton2">CLEAN</a>
+<a href="#" id="button1" class="newbutton1">GRID</a>
+
+          <div class="widget">
+          <h4 class="caltitle">Cloud Calendar</h4>
+          <div id="calendar"></div>
+          </div> 
 
   <div class="content-wrap">
   <ul class="navigation">
