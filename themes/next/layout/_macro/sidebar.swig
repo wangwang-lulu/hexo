@@ -174,7 +174,7 @@
           <p class="littlenote">(其实还没想好放什么在这里...)</p>
           </div>
           <div class="xxx">
-          <img src="/images/preview.png" style="border-radius: 5px; height: 100%;"/>
+          <img src="/images/preview.png" style="border-radius: 5px; height: 100%; display: initial !important"/>
           </div>
           </div>
           </div> 
