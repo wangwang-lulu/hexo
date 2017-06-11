@@ -169,9 +169,10 @@
           <div id="calendar"></div>
           <div class="xy">
           <div class="yyy">
-          <p class="littlenote">下篇预告:</p>
-          <p class="littlenote">神叨系列：反乌托邦</p>
-          <p class="littlenote">(其实还没想好放什么在这里...)</p>
+          <p class="littlenote">To-do list</p>
+          <p class="littlenote">评论：今敏作品</p>
+          <p class="littlenote">神叨：反乌托邦</p>
+          <p class="littlenote">行忆画廊：柏林</p>
           </div>
           <div class="xxx">
           <img src="/images/preview.png" style="border-radius: 5px; height: 100%; display: initial !important"/>
