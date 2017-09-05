@@ -11,7 +11,7 @@ comments: false
 
 <blockquote class="blockquote-center">2017年9月5日更新。</blockquote>
 
-博主是我。除了这个网站，还有用于工作的平台 ([Lu's Notebook](http://wangwanglulu.github.io))。曾经尝试过各种建站方式，但是我个人最喜欢的，就是您现在看到的这个网站。 
+博主是我。除了这个网站，还有用于工作的平台 ([Lu's Notebook](http://wangwanglulu.github.io))。曾经尝试过各种建站方式，但是我个人最喜欢的，就是您现在看到的这个网站。
 
 <!-- more -->
 {% aplayer "To my I" "Keysholic" "/music/To my I.mp3" "/music/To my I.jpg" %}
