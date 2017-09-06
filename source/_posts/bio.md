@@ -11,7 +11,7 @@ comments: false
 
 <blockquote class="blockquote-center">2017年9月5日更新。</blockquote>
 
-博主是我。除了这个网站，还有用于工作的平台 ([Lu's Notebook](http://wangwanglulu.github.io))。曾经尝试过各种建站方式，但是我个人最喜欢的，就是您现在看到的这个网站。 
+博主是我。除了这个网站，还有用于工作的平台 ([Lu's Notebook](http://wangwanglulu.com))。曾经尝试过各种建站方式，但是我个人最喜欢的，就是您现在看到的这个网站。 
 
 <!-- more -->
 {% aplayer "To my I" "Keysholic" "/music/To my I.mp3" "/music/To my I.jpg" %}
@@ -28,12 +28,12 @@ comments: false
 这个网站用flash做的动画，内容全部手动更新，是白手起家从底层写出来的，可以说相当费劲，不易维护，遂放弃，不过目前依然可以浏览。
 
 ### 2016
-领悟了做网站最重要的不是形式，而是内容这个道理以后，开始转向wordpress平台，也就是 ([Lu Wang Zone](http://dearlu.wang))。使用的是openshift的云计算平台，并且绑定了域名，终于进化到动态网页。
+领悟了做网站最重要的不是形式，而是内容这个道理以后，开始转向wordpress平台，也就是Lu Wang Zone(彻底关闭，停止使用)。使用的是openshift的云计算平台，并且绑定了域名，终于进化到动态网页。
 
 这个网站直接使用了模板，对于一个曾经从底层做网站的人来说，非常简易。但是动态网页也有缺点，而且因为openshift部署在国外，所以网站打开速度虽然不影响使用，但是用户体验并不是最佳。而且我想改模板的css，一般是没有说明文档的。（2017年9月Openshift v2被关闭，虽然v3仍然可以建站，但是不想再折腾了，遂停用）
 
 ### 2017
-终于走向了程序员的世界，用github pages制作静态网页，也就是我的工作平台 ([Lu's Notebook](http://wangwanglulu.github.io))，和您看到的这个网站。这个网站的主题有详细的说明文档，便于我修改css，而且是极简风格，比较对我的胃口。
+终于走向了程序员的世界，用github pages制作静态网页，也就是我的工作平台 ([Lu's Notebook](http://wangwanglulu.com))，和您看到的这个网站。这个网站的主题有详细的说明文档，便于我修改css，而且是极简风格，比较对我的胃口。
 
 回顾我建站的历程，不难发现这是一个愚蠢的折腾过程，但是目前终于居有定所，倍感欣慰。
 
@@ -41,8 +41,8 @@ comments: false
 
 {% note success %} 
 
--  [Lu's Notebook](http://wangwanglulu.github.io) (工作，active)
--  [Lu's Reality Marble](http://wangwanglulu.com) (博客，active)
+-  [Lu's Notebook](http://wangwanglulu.com) (工作，active)
+-  [Lu's Reality Marble](http://dearlu.wang) (博客，active)
 
 {% endnote %}
 
@@ -50,7 +50,7 @@ comments: false
 ## 联系方式 
 
 -  E-mail: wangwanglulu@gmail.com
--  Domain: [wangwanglulu.com](http://wangwanglulu.com)
+-  Domain: [wangwanglulu.com](http://dearlu.wang)
 -  Wechat: wangwanglulu
 
 {% endnote %}
