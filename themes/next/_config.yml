@@ -102,32 +102,32 @@ font:
   # Global font settings used on <body> element.
   global:
     # external: true will load this font family from host.
-    external: true
+    external: false
     family: Roboto-Regular
 
   # Font settings for Headlines (h1, h2, h3, h4, h5, h6)
   # Fallback to `global` font settings.
   headings:
     external: true
-    family: SourceHanSerifCN-Heavy
+    family: source-han-serif-sc
 
   # Font settings for posts
   # Fallback to `global` font settings.
   posts:
-    external: true
+    external: false
     family:
 
   # Font settings for Logo
   # Fallback to `global` font settings.
   # The `size` option use `px` as unit
   logo:
-    external: true
+    external: false
     family: JosefinSans-Regular
     size: 8px
 
   # Font settings for <code> and code blocks.
   codes:
-    external: true
+    external: false
     family:
     size:
 
