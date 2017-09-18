@@ -124,7 +124,7 @@ font:
     external: false
     family: JosefinSans-Regular
     size: 8px
-
+ 
   # Font settings for <code> and code blocks.
   codes:
     external: false
