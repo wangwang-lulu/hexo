@@ -94,7 +94,7 @@ scheme: Mist
 # - Introduce in 5.0.1
 # ---------------------------------------------------------------
 font:
-  enable: true
+  enable: false
 
   # Uri of fonts host. E.g. //fonts.googleapis.com (Default)
   host: 
@@ -108,7 +108,7 @@ font:
   # Font settings for Headlines (h1, h2, h3, h4, h5, h6)
   # Fallback to `global` font settings.
   headings:
-    external: true
+    external: false
     family: source-han-serif-sc
 
   # Font settings for posts
