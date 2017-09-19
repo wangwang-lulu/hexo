@@ -42,7 +42,7 @@ comments: false
 {% note success %} 
 
 -  [Lu's Notebook](http://wangwanglulu.com) (工作，active)
--  [Lu's Reality Marble](http://dearlu.wang) (博客，active)
+-  [Lu's Reality Marble](http://luluwangwang.com) (博客，active)
 
 {% endnote %}
 
@@ -50,7 +50,7 @@ comments: false
 ## 联系方式 
 
 -  E-mail: wangwanglulu@gmail.com
--  Domain: [wangwanglulu.com](http://dearlu.wang)
+-  Domain: [wangwanglulu.com](http://wangwanglulu.com)
 -  Wechat: wangwanglulu
 
 {% endnote %}
