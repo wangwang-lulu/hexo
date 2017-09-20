@@ -5,4 +5,8 @@
 生活随笔：正能量负能量
 学问技术：学术科研软件
 
+  <script  src="/js/src/calendar.js"></script>
+  <script  src="/js/src/languages.js"></script>
+  <script type="text/javascript" src="/js/src/tryit.js"></script>
+
 
