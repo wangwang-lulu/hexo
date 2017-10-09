@@ -160,25 +160,6 @@
 
     </div>
   </aside>
-<a href="/message/" id="button4" class="newbutton4">MESG</a>          
-<a href="#" id="button3" class="newbutton3">DATE</a>
-<a href="#" id="button2" class="newbutton2">CLEAN</a>
-
-          <div class="widget">
-          <p class="caltitle">Cloud Calendar</p>
-          <div id="calendar"></div>
-          <div class="xy">
-          <div class="yyy">
-          <p class="littlenote">To-do list</p>
-          <p class="littlenote">评论：今敏作品</p>
-          <p class="littlenote">神叨：反乌托邦</p>
-          <p class="littlenote">行忆画廊：柏林</p>
-          </div>
-          <div class="xxx">
-          <img src="/images/preview.png" style="border-radius: 5px; height: 100%; display: initial !important"/>
-          </div>
-          </div>
-          </div> 
 
   <div class="content-wrap">
   <ul class="navigation">
