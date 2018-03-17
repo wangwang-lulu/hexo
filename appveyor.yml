@@ -1,5 +1,6 @@
 clone_depth: 5
 environment:
+- nodejs_version: "7"
   access_token:
     secure: +kdGUtsR9YRoIkGkr6NTzfHWjmRMP8ak1pHT3jSWVR2F2pf5YxkbsYrNPFOGhdoD
 
