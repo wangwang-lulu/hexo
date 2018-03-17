@@ -6,10 +6,8 @@ environment:
 install:
 - node --version
 - npm --version
-- npm install hexo-cli -g
-- npm install -g hexo
-- npm update hexo -g
 - npm install
+- npm install hexo-cli -g
 build_script:
 - hexo generate
 artifacts:
