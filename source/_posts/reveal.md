@@ -2,13 +2,13 @@
 title: 在Github Pages部署Html5幻灯片
 date: 2017-09-20 23:56:27
 categories: 学术技术
-feature: /images/b16.jpg
+feature: /images/b112.jpg
 tags:
 - 软件使用
 
 
 ---
-<img src="/images/b16.jpg" class="img-1f" />
+<img src="/images/b112.jpg" class="img-1f" />
 
 上课需要一种幻灯片，可以方便的展示代码，可以编辑数学公式，可以用markdown编辑，可以在网页上方便的浏览，也可以线下浏览。这里介绍一个“黑科技”，将幻灯片部署在我的个人主页上。
 
