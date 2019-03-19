@@ -145,7 +145,6 @@ font:
 social:
   #LinkLabel: Link
   GitHub: https://github.com/wangwang-lulu
-  简书: http://www.jianshu.com/users/00624ad0a1fb/timeline
 
 
 # Social Links Icons
@@ -215,7 +214,7 @@ links_title: Links
 #links_layout: inline
 links:
   Notebook: http://wangwanglulu.com
-  Insomnia Heaven: http://coding.wangwanglulu.com
+  Insomnia Heaven: http://wangwanglulu.cn
 
 
 
