@@ -328,24 +328,13 @@ changyan:
   appid:
   appkey:
 
-valine:
-  enable: true
-  appid:  c9RNKsD00tfxokI0L0LKW5uQ-gzGzoHsz
-  appkey: 6TqB0Quo8JBjhkbVf67fNF9a
-  notify: false # mail notifier , https://github.com/xCss/Valine/wiki
-  verify: false # Verification code
-  placeholder: ヾﾉ≧∀≦)o来啊，快活啊! 
-  guest_info: nick,mail,link
-  pageSize: 10
-
-
 # Support for youyan comments system.
 # You can get your uid from http://www.uyan.cc
 #youyan_uid: your uid
 
 # Support for LiveRe comments system.
 # You can get your uid from https://livere.com/insight/myCode (General web site)
-# livere_uid: MTAyMC8zNjYzMi8xMzE2Nw==
+livere_uid: MTAyMC8zNjYzMi8xMzE2Nw==
 
 # Baidu Share
 # Available value:
