@@ -1,10 +1,13 @@
 ---
 title: nbviewer分享Jupyter Notebook
 date: 2019-03-22 16:20:36
-categories: 软件使用
+categories: 学术技术
+feature: /images/b92.jpg
+tags:
+- 软件使用
 ---
 
-<img src="/images/b92.jpg"/>
+<img src="/images/b92.jpg" class="img-1f"/>
 
 Jupyter是将代码与写作结合的神器。如果只是自己跟自己玩，随便用个编程软件就欧了。但是既然都用上Jupyter了，说明要分享，记录一下怎么用github+nbviewer分享。
 
@@ -38,3 +41,8 @@ user就是你用户名咯 (我这里是wangwanglulu)
 ![](/images/nb/nb4.png)
 
 最后，其实也有别的方法分享，比如生成html文件，然后上传到github，或者直接上传Python代码文件。但是偶觉得上面这个方法是值得推荐的。
+
+{% note danger %} 
+**本文作者**： Lu Wang
+**版权声明**： 本博客所有文章除特别声明外，均采用 [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/cn/) 许可协议。转载请注明出处！
+{% endnote %}
