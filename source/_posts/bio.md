@@ -51,6 +51,6 @@ comments: false
 
 -  E-mail: wangwanglulu@gmail.com
 -  Domain: [wangwanglulu.com](http://wangwanglulu.com)
--  Wechat: wangwanglulu
+
 
 {% endnote %}
